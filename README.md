@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlessandroCasonato
-- 👀 I’m an italian software developer focused on web technologies
+- 👀 I’m an italian software developer focused on web technologies, currently working mainly with .NET and JavaScript.
 - 🌱 I’m currently trying to learn something new also in the blockchain technologies field with a focus on Smart Contracts with Solidity.
 - 📫 How to reach me: Mail - alessandro.casonato.dev@gmail.com  
                       Discord - Kases#6006
